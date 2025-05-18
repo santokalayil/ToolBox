@@ -30,7 +30,7 @@ ToolBox/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ToolBox.git
+   git clone https://github.com/santokalayil/ToolBox.git
    cd ToolBox
    ```
 2. Install dependencies:
